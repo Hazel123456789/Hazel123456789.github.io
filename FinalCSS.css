@@ -1,0 +1,172 @@
+body{
+    background-color: rgb(88, 97, 72);
+    color:rgb(204, 199, 199)
+}
+div.warninglist{
+    margin:auto;
+    text-align: center;
+    align-items: center;
+    width:40%;
+    background-color:rgb(97, 76, 49);
+    text-decoration: none;
+    padding:10px;
+    border:5px;
+    border-style: ridge;
+    border-color: darkcyan;
+    border-inline-color: darkslategrey;
+}
+h2.klang{
+    text-align: center;
+    margin:auto;
+    background-color: black;
+    width:40%;
+    padding:10px;
+    border: 5px;
+    border-style:double;
+    border-color:white;
+
+}
+img.main{
+    height:250px;
+    width:250px;
+}
+body.warningpage{
+    background-color: rgb(88, 97, 72);
+    color:rgb(204, 199, 199)
+}
+ul > a{
+    color:rgb(7, 221, 18);
+    width:33.3%;
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:25px;
+}
+a:visited{
+    color:rgb(7, 221, 18);
+}
+a{
+    text-decoration: none;
+}
+#no{
+    color:red
+}
+div.div1{
+    display:flow-root;
+    float:left;
+    width:48%;
+    background-color: rgb(97, 76, 49);
+    border:1%;
+    border-style:ridge;
+    padding:1%;
+    padding-left: 0.5%;
+    padding-right:0.5%;
+    height:100%;
+    border-color: darkcyan;
+    border-inline-color: darkslategrey;
+}
+div.div2{
+    width:48%;
+    height:inherit;
+    float:right;
+    display:flow-root;
+    background-color: rgb(97, 76, 49);
+    border:1%;
+    border-style:ridge;
+    padding:1%;
+    padding-left:0.5%;
+    padding-right:0.5%;
+    border-color: darkcyan;
+    border-inline-color: darkslategrey;
+}
+div.left{
+    width:45%;
+    float:left;
+    padding:1%;
+    border:5%;
+    border-color:darkcyan;
+    border-inline-color: darkslategray;
+    border-style:ridge;
+    background-color: rgb(97, 76, 49);
+}
+div.right{
+    width:45%;
+    float:right;
+    padding:1%;
+    border:5%;
+    border-color:darkcyan;
+    border-inline-color: darkslategray;
+    border-style:ridge;
+    background-color: rgb(97, 76, 49);
+}
+a > img{
+    float:left;
+
+}
+aside{
+    display:flow-root;
+}
+h1{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+#subtext{
+    font-size:30px;
+}
+#title{
+    background-color:darkcyan;
+    color:rgb(51, 35, 68);
+    font-size:60px;
+    font-family: fantasy;
+    letter-spacing: 10px;
+}
+nav{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:darkslategray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+aside.spottings>div{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+footer{
+    background-color: rgb(238, 234, 230);
+    color:black;
+}
+div > audio{
+    width:3%
+}
+#subtext{
+    text-align:center;
+}
+div.gallery{
+    margin:auto;
+    text-align:center;
+    padding:2px;
+    padding-bottom:0px;
+    background-color:black;
+    border:5%;
+    border-color:darkcyan;
+    border-inline-color: darkslategray;
+    border-style:ridge;
+    width:1000px;
+    height:1050px;
+}
+div.gallery > img{
+    width: 1000px;
+    height:1000px;
+    padding-bottom:0px;
+    margin-bottom:0px;
+}
+div.gallery>blockquote{
+    background-color:rgb(97, 76, 49);
+}
+h2.klang>a{
+    color:rgb(7, 221, 18);
+}
